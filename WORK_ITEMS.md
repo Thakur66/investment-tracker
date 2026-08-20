@@ -178,7 +178,7 @@ Legend:
 
 - [x] Review Laravel code structure
 - [x] Remove unnecessary code
-- [ ] Check routes
+- [x] Check routes
 - [ ] Check controllers
 - [ ] Check models
 - [ ] Check migrations
