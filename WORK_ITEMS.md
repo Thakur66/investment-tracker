@@ -197,11 +197,65 @@ Legend:
 
 # VERSION 1.1 — PORTFOLIO IMPROVEMENTS
 
-- [ ] Define Version 1.1 requirements
-- [ ] Create Version 1.1 granular task breakdown
-- [ ] Implement Version 1.1 tasks
-- [ ] Test Version 1.1
-- [ ] Review Version 1.1
+## Requirements & Planning
+
+- [x] Define Version 1.1 requirements
+- [x] Create Version 1.1 granular task breakdown
+
+## Better Portfolio Dashboard
+
+- [ ] Review existing dashboard data and layout for Version 1.1
+- [ ] Add Number of Investments metric
+- [ ] Add Best-Performing Investment metric
+- [ ] Add Worst-Performing Investment metric
+- [ ] Add Average Return % metric
+- [ ] Integrate approved metrics into existing dashboard card layout
+- [ ] Verify dashboard metrics against investment data
+
+## Investment Filtering
+
+- [ ] Add Category filter to investment listing
+- [ ] Add Investment Type filter to investment listing
+- [ ] Preserve selected filter values after filtering
+- [ ] Support combined Category + Investment Type filtering
+- [ ] Add clear/reset filters action
+- [ ] Verify filtering with multiple investment records
+
+## Investment Sorting
+
+- [ ] Add Investment Name sorting
+- [ ] Add Invested Amount sorting
+- [ ] Add Current Value sorting
+- [ ] Add Gain/Loss sorting
+- [ ] Add Return % sorting
+- [ ] Add Investment Date sorting
+- [ ] Preserve filter selections while sorting
+- [ ] Verify ascending and descending sorting
+
+## Better Investment Details
+
+- [ ] Review current investment information presentation
+- [ ] Improve investment detail readability
+- [ ] Improve Gain/Loss and Return % visibility in investment details
+- [ ] Verify investment details use existing calculations and data
+
+## User Experience Improvements
+
+- [ ] Review Version 1.1 screens for UI consistency
+- [ ] Preserve existing Add Investment workflow
+- [ ] Preserve existing Edit Investment workflow
+- [ ] Preserve existing Delete Investment workflow
+- [ ] Verify navigation remains simple
+- [ ] Verify responsive layout after Version 1.1 changes
+
+## Version 1.1 Testing & Review
+
+- [ ] Test Version 1.1 dashboard metrics independently
+- [ ] Test Version 1.1 filtering independently
+- [ ] Test Version 1.1 sorting independently
+- [ ] Test Version 1.1 investment details independently
+- [ ] Perform complete Version 1.1 regression test
+- [ ] Review Version 1.1 implementation
 - [ ] Commit Version 1.1
 - [ ] Tag Version 1.1
 
