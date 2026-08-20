@@ -89,12 +89,6 @@
         </form>
     </div>
 
-    <p>
-        <a href="/investments">Back to Investments</a>
-    </p>
-
-
-
 <script>
     const categorySelect = document.getElementById('category_id');
     const investmentTypeSelect = document.getElementById('investment_type_id');
