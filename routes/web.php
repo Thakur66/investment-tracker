@@ -3,10 +3,6 @@
 use App\Http\Controllers\InvestmentController;
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
 Route::get('/dashboard', [InvestmentController::class, 'dashboard'])->name('dashboard');
 
 Route::get('/investments', [InvestmentController::class, 'index'])->name('investments.index');
