@@ -186,7 +186,7 @@ Legend:
 - [x] Check Blade views
 - [x] Check JavaScript
 - [x] Check CSS
-- [ ] Check validation
+- [x] Check validation
 - [ ] Check database relationships
 - [ ] Check error handling
 - [ ] Perform complete application test
