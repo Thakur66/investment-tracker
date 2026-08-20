@@ -185,7 +185,7 @@ Legend:
 - [x] Check seeders
 - [x] Check Blade views
 - [x] Check JavaScript
-- [ ] Check CSS
+- [x] Check CSS
 - [ ] Check validation
 - [ ] Check database relationships
 - [ ] Check error handling
