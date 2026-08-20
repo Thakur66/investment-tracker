@@ -181,7 +181,7 @@ Legend:
 - [x] Check routes
 - [x] Check controllers
 - [x] Check models
-- [ ] Check migrations
+- [x] Check migrations
 - [ ] Check seeders
 - [ ] Check Blade views
 - [ ] Check JavaScript
