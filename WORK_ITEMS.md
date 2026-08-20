@@ -182,7 +182,7 @@ Legend:
 - [x] Check controllers
 - [x] Check models
 - [x] Check migrations
-- [ ] Check seeders
+- [x] Check seeders
 - [ ] Check Blade views
 - [ ] Check JavaScript
 - [ ] Check CSS
@@ -221,7 +221,6 @@ Legend:
 
 # VERSION 2.0 — COMMERCIAL RELEASE
 
-- [ ] Define Version 2.0 requirements
 - [ ] Production readiness review
 - [ ] Security review
 - [ ] Performance review
