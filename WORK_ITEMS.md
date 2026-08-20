@@ -190,7 +190,7 @@ Legend:
 - [x] Check database relationships
 - [x] Check error handling
 - [x] Perform complete application test
-- [ ] Create Version 1.0 Git commit
+- [x] Create Version 1.0 Git commit
 - [ ] Tag Version 1.0
 
 ---
