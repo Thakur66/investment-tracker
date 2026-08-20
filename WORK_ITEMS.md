@@ -187,7 +187,7 @@ Legend:
 - [x] Check JavaScript
 - [x] Check CSS
 - [x] Check validation
-- [ ] Check database relationships
+- [x] Check database relationships
 - [ ] Check error handling
 - [ ] Perform complete application test
 - [ ] Create Version 1.0 Git commit
