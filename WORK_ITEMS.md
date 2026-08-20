@@ -183,7 +183,7 @@ Legend:
 - [x] Check models
 - [x] Check migrations
 - [x] Check seeders
-- [ ] Check Blade views
+- [x] Check Blade views
 - [ ] Check JavaScript
 - [ ] Check CSS
 - [ ] Check validation
