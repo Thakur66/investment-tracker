@@ -191,7 +191,7 @@ Legend:
 - [x] Check error handling
 - [x] Perform complete application test
 - [x] Create Version 1.0 Git commit
-- [ ] Tag Version 1.0
+- [x] Tag Version 1.0
 
 ---
 
